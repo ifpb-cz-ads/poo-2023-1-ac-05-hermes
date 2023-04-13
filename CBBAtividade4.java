@@ -1,4 +1,4 @@
-public class ImprimirAteCem
+public class CBBAtividade4
 {
     public static void main(String[] args){
         int i;
