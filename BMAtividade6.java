@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VerificarDiaSemana
+public class BMAtividade6
 {
     public static void main(String[] args){
         int dia=1;
