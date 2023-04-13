@@ -1,10 +1,13 @@
-**2 -** Apesar de ambos serem estruturas de repetição muito utilizados as vezes para o mesmo propósito, o While é utilizado quando não se sabe a quantidade de vezes que determinado código deve se repetir, enquanto For possui uma inicialização mais complexa pois deve ser especificado quantas vezes ocorrerá a repetição.<br><br>
+**1 -** 
+Inicialização: Definição do valor inicial da variável principal do loop.<br>Condição: Especificação de até quando o laço irá durar.<br>Iteração: Atualização do valor da variável principal a cada repetição.<br>Comandos: Código que será executado todas as vezes até que a condição seja atendida.
+
+**2 -** Apesar de ambos serem estruturas de repetição muito utilizados as vezes para o mesmo propósito, o While é utilizado quando não se sabe a quantidade de vezes que determinado código deve se repetir, enquanto For possui uma inicialização mais complexa pois deve ser especificado quantas vezes ocorrerá a repetição.<br>
 <br>----------------------------------------------------------------------------<br>
 
-**3 -** Do While deve ser utilizado quando o código precisa ser executado ao menos uma vez, na maioria das vezes quando ainda não se tem um resultado previsível. Por exemplo: Um programa na qual é exibido um menu com várias opções diferentes e o usuário deve escolher alguma delas. Esse menu deve ser exibido pelo menos uma vez, e é bem mais eficiente utilizar o do while para isso do que alguns artificios como colocar algum número alto ou improvável como padrão na variável da escolha. Outro exemplo seria um programa que realize um cálculo matemático, primeiro tem que começar o cálculo para depois saber se o código deve continuar sendo repetido.<br><br>
+**3 -** Do While deve ser utilizado quando o código precisa ser executado ao menos uma vez, na maioria das vezes quando ainda não se tem um resultado previsível. Por exemplo: Um programa na qual é exibido um menu com várias opções diferentes e o usuário deve escolher alguma delas. Esse menu deve ser exibido pelo menos uma vez, e é bem mais eficiente utilizar o do while para isso do que alguns artificios como colocar algum número alto ou improvável como padrão na variável da escolha. Outro exemplo seria um programa que realize um cálculo matemático, primeiro tem que começar o cálculo para depois saber se o código deve continuar sendo repetido.<br>
 <br>----------------------------------------------------------------------------<br>
 
-**4 -** Tanto break quanto continue servem para simplesmente interromper um loop, porém "continue" interrompe o loop mas retorna para o teste de condição e continua a próxima iteração, enquanto "break" simplesmente interrompe o loop inteiro, fazendo com que o programa continue fora da condição.<br><br>
+**4 -** Tanto break quanto continue servem para simplesmente interromper um loop, porém "continue" interrompe o loop mas retorna para o teste de condição e continua a próxima iteração, enquanto "break" simplesmente interrompe o loop inteiro, fazendo com que o programa continue fora da condição.<br>
 <br>----------------------------------------------------------------------------<br>
 
 **5 -** <br>
