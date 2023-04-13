@@ -1,4 +1,4 @@
-public class NumerosParesAteCem
+public class CBBAtividade5
 {
     public static void main(String[] args){
         int i;
